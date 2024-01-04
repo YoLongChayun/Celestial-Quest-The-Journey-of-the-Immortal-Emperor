@@ -1,8 +1,0 @@
-﻿  game.c
-  login.c
-  main.c
-  saveload.c
-  test_main.c
-  正在生成代码...
-test_main.obj : error LNK2005: main 已经在 main.obj 中定义
-E:\A_VS_C\大帝封神\x64\test\Project1.exe : fatal error LNK1169: 找到一个或多个多重定义的符号
